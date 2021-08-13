@@ -1,5 +1,5 @@
 # pdnext-DarkMode
-I've created a repo to act as a hub for themes for pdnext. The repo is located [here](https://github.com/Eric-Lennartson/pd-themes)
+I've created a new repo to act as a hub for themes for pdnext. The repo is located [here](https://github.com/Eric-Lennartson/pd-themes)
 
 Dark mode for the pdnext fork of puredata. We can all avoid burning out our eye sockets together.
 
